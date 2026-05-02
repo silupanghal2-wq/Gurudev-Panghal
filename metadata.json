@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A high-performance minimalist task manager with priority sorting and category filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Task Management", "Local Persistence", "Priority Sorting"]
+}
